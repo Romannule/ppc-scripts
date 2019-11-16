@@ -1,7 +1,7 @@
 // -- Operation QS Fluff -- When 10s drop, we should know about it. 
 // This script will alert us to any keywords that fall from their 10/10 position by labelling them accordingly and emailing off any droppers to the team.
 
-var emailList = [ 'doug@withseismic.com', 'doug+1@withSeismic.com' ]
+var emailList = [ 'name@withseismic.com', 'name+1@withSeismic.com' ]
 
 var labels = [
   {
