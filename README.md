@@ -1,1 +1,2 @@
-# ppc-scripts
+# A Collection of Sickhead bespoke PPC scripts starts here - 16.11.19 ~ Doug Silkstone
+If you dream of a future where repetitive, dullard tasks are outsourced to our thankful robot partners and the risk of spreadsheet induced carpal  tunnel is zero to none, or if you're a smart person that understands humans were build for more than reporting on a Monday morning - you can request a script by emailing doug+scripts@withseismic.com
