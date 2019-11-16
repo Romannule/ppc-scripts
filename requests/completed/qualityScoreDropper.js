@@ -1,5 +1,8 @@
-// -- Operation QS Fluff -- When 10s drop, we should know about it. 
-// This script will alert us to any keywords that fall from their 10/10 position by labelling them accordingly and emailing off any droppers to the team.
+// -- Operation QS10 0 Keyword Propper  -- When 10s fall from grace, we should know about it. 
+// This script will alert us to any keywords that fall from their 10/10 position by labelling them accordingly
+// and emailing off any droppers to the team for action.
+// Author: Doug - withSeismic.com
+// 16.11.2019
 
 var emailList = [ 'name@withseismic.com', 'name+1@withSeismic.com' ]
 
