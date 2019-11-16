@@ -102,7 +102,7 @@ function main() {
     Logger.log('%s have dropped below QS10 - See email for details.', droppedKeywordsNo)
     MailApp.sendEmail({
       to: emailList.toString(),
-      subject: 'QS10 Checker: ' + droppedKeywordsNo + 'Keywords have dropped from QS10!',
+      subject: 'QS10 Checker: ' + droppedKeywordsNo + ' Keywords have dropped from QS10!',
       htmlBody:
         '<table style="width:100%; text-align:left;"><tr><th>Campaign</th><th>Adgroup</th><th>Keyword</th><th>New Quality Score</th></tr>' +
         htmlString.toString().replace(/,/g, '') +
